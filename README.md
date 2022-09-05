@@ -1,4 +1,4 @@
-# Modelo Entidade Relacionamento - E-commerce DIO
+# Projeto Conceitual - Ecommerce
 
 Desafio da plataforma [DIO](https://dio.me) (Digital Innovation One), no bootcamp [Database Experience](https://web.dio.me/track/database-experience).
 
